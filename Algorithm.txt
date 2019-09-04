@@ -1,3 +1,13 @@
 1.Decide what kind of pizza we want
-Decide how many pizzas we want
-Decide how many veras we want
+2. Decide how many pizzas we want
+3.Decide how many veras we want
+4. Call the pizza place
+    a. they are  answered go to step 5
+    b.they dont answer-go to step 4 again
+5. Place the order
+   a. pay over phone -see step 6
+   b.pay at door see step 7
+6. Give credit card information- see step 5
+7 wait
+
+
